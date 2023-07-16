@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "educounsellor-fpqh",
+  "private_key_id": "b2a83a2c87b4ea3ce0be97f07617223f53253aa0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmEucq/eVzXYxj\nbKLfxEajSGyf4EmLB5ZVFKbBv9N1tW1fLIW07YCpKcWPfq+nQ0tSy/kDVIS8GWzA\nS5W1h/5PNWoRGqOCT+2dBibZMod1zUhTCAH/wc/XZNUYLQEIhbQuIB2tUyldU3k/\nQaXPbniJot4BPa/hzwMk+LIQfJW/nVjgahUO4PgFLqF/hUGglSC5BXvU4ABImZuY\nItBe1fhlqYxo4oabgE2gov/JqrCBq2uIVOG9AiRqAnNX+2kaGlc6ytwWW7+V+qxi\ng9AKzRV+LZl9hZISpCN4rClb0XPeREeZ6Am0Z/CAPyxkGrNt460i9Lx59DjLInLX\n5Wcvo0Z5AgMBAAECggEADGre6o3D7YmZ4OhDUGhwYK6eYqDmVtUpJjDuXA/QC53W\ncPaXA8V7aIqlSTqvfxnuxKDYPGnCJ/9drI4qQkHKH9mOVfuQLML1sRc/6d8XllUU\nWpL/dURkWkZhkZZx3JWEuKsxlN9iOSZv6y0pLPalYCMzptOaNk/gfA/1Xnq2Rraq\nEvZbrNuu0cFVGwBXIpStRFR+s18k1lXYoiNAwKQ6DTMyeFVBGNrdbSDK6GLdvtuY\nn460hvze6EEO5/WPvzpGMZOcSVAROl2Auw6wkigX1QX7aHrgbLl9M00jTMnGLHNJ\nBTED9XnFbmtF3z583MXILYDZU1z1NzTZB//DwWiPFQKBgQDRz+asHv12o9WE79rg\ndlXZrDSla4qimLagjFU8Rao/UFVnxklQbBE1NqD2UJkcifu/KRWDhKUqftyHWCNp\nK731lyvfpmV73onGM4/aMDGHf+3lx+thsKbiy7GHbyCZ26JPDNz4j91BV+ycAf7y\nhxKpj8NlCagXd5yx44hLe5gC7QKBgQDKohpX9clSoG+LOAuLAIqlGUm5dpJpxOeR\nCM4X9pZnk4G934Om/yasReWq57dqAVv7dXJGD6VMTEtbredLwjcO9eZUe4qQpZM+\nUBrVvv0yK92y+t+pv87JfvmidsNfm6pYIRvhkEeBbCysVPoQlWOvxs6CGK929Kxj\nM2eVIZ5kPQKBgQCHVLJVEygp/kMbHBrx7WIypQDQMi2Z8ybZJ6tS1Rya+hYceamQ\nViRDTplER3h7EAVxp+5YhpaCcpGMOy2cCLreTkPeXlXXMBNt5JRFCBDqdXndXLZW\nrLr4TqqT0PoWQ7TNiF5/dUwhebUEa8Umajl/ZVuDMFdby6smkry282F5gQKBgDZS\nSJ+l+2eULPL0fluwNHrYEaSPfeau66k85AsWhvGTYKenIOMG6bYrMsujPM9FOARs\nUssnbJfMqDMWprfvg9UV5L5nNBlc2eFNljQQ9E2b5t4RVR5rliL8UC3Wir+5umvP\nzGqmxBSVDFDSowsJEWVQ9ZF4zqkkJIafhDg9f/m9AoGBANApCt1BQz+8d/pmn6tq\n470y8S66sG8UXtRZX80h5vfetTL9VX5L5mxo5c6483qqt0opaOaCtfN6YR38vyun\n1DzLHXf2aoDdUFwvlLiy4YAycxfvuIkpAE/5xgDowFd3E9XhfQ6X+Cd0FHgH3twC\nzkd5f+jqjbkzlPeR1f8c3idk\n-----END PRIVATE KEY-----\n",
+  "client_email": "edubot@educounsellor-fpqh.iam.gserviceaccount.com",
+  "client_id": "103107829853923199123",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edubot%40educounsellor-fpqh.iam.gserviceaccount.com"
+}
